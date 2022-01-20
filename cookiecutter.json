@@ -1,0 +1,8 @@
+{
+  "author_name": "Zsolnai Viki",
+  "author_email": "zsolnai.viki@gmail.com",
+  "author_github_user": "KisCsaj68",
+  "package_name": "my_next_assignment",
+  "package_version": "0.0.1",
+  "package_description": "An opinionated, minimal cookiecutter template for Python packages, with all kinds of static code analizers configured"
+}
